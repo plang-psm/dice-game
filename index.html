@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="index.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="container">
+      <div id="player-status"><h1></h1></div>
+      <div class="score-container">
+        <div id="player-one">
+          <h2>
+            Score:
+            <span id="p1-scoreboard">0</span>
+          </h2>
+          <p id="p1-dice" class="dice active">-</p>
+        </div>
+        <div id="player-two">
+          <h2>
+            Score:
+            <span id="p2-scoreboard">0</span>
+          </h2>
+          <p id="p2-dice" class="dice">-</p>
+        </div>
+      </div>
+
+      <button id="roll-btn">Roll Dice</button>
+      <button id="reset-btn">Reset Game</button>
+
+      <p>First to reach twenty wins! Roll Dice!</p>
+    </div>
+
+    <script src="index.js"></script>
+  </body>
+</html>

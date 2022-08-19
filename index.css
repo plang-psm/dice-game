@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-size: xx-large;
+  font-family: sans-serif;
+}
+
+.container {
+  width: 700px;
+  margin: 70px auto;
+  padding: 50px;
+  text-align: center;
+  border: 2px solid black;
+  box-shadow: 15px 15px gray;
+}
+
+.score-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+#player-status {
+  font-size: 64px;
+}
+
+.dice {
+  display: inline;
+  margin: 20px auto;
+  padding: 30px 50px;
+  font-size: 80px;
+  background-color: #ffffff;
+  border: 2px solid black;
+  text-align: center;
+}
+
+.active {
+  box-shadow: 0 0 10px green;
+}
+
+button {
+  background-color: green;
+  color: white;
+  text-align: center;
+  margin: 100px auto;
+  padding: 20px 30px;
+  font-size: 25px;
+  border: none;
+  border: 15px;
+}
+
+#reset-btn {
+  display: none;
+}
+#roll-btn {
+  display: block;
+}
