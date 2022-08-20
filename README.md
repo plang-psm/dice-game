@@ -18,6 +18,8 @@
 * [Technologies](#technologies)
 * [Road Map](#road-map)
 * [Launch](#launch)
+* [Contact](#contact)
+* [Resources](#resources)
 
 
 ![Dice game](https://user-images.githubusercontent.com/101952500/185536440-3db05e15-5204-4ae4-95b3-dce9f4460431.jpg)
