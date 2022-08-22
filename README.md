@@ -47,7 +47,7 @@ The game was created as a training exercise to practice with JavaScript objects,
     - [ ] Additional Players
 
 ## Launch
-You can display the project and its code here:
+You can open the project and its code here:
 <a href='https://codepen.io/plang-psm/pen/MWVLgXO' target='_blank'><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen tag" /></a>
 
 ## Contact
